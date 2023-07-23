@@ -1,0 +1,77 @@
+
+
+body{
+    color: #000;
+     background-size: cover;
+ }
+
+header{
+    background-image: url(../images/pic09.jpg);
+    margin-top: 0;
+    background-color: rgba(37, 103, 121, 0.667);
+    font-weight: bold;
+    height: 8rem;
+    padding-bottom: 0pt;
+    padding-right: 0%;
+
+}
+#menu{
+    padding: 10px;
+}
+h2{
+    font-style: oblique;
+    text-align: left;
+    font: optional;
+    color: black;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    padding: 2rem;
+    color: black;
+    background-color: transparent;
+    border: rgb(15, 16, 16);
+    border-radius: 7px;
+}
+a:hover{
+    background-color: transparent;
+    color: bisque;
+}
+span{
+    color: white;
+}
+section{
+    background-image: url(../images/pic08.jpg);
+    padding: 20px;
+    padding-left: 0%;
+}
+section img{
+    padding: 0%;
+}
+#main-content{
+    color: #000;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: #336fff;
+}
+#free-story{
+    text-decoration: solid;
+}
+.container{
+    display: inline-block;
+    margin: 10px;
+  }
+.container img{
+    padding: 20px;
+    height: 330px;
+    width: 200px;
+  }
+.container p{
+    padding: -10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: burlywood;
+  }
